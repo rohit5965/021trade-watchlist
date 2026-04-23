@@ -99,10 +99,3 @@ flutter run
 | `equatable` | Value equality for events, states, models |
 | `uuid` | Unique IDs for stock items |
 | `google_fonts` | Sora + IBM Plex Sans typography |
-
-## What I'd Add Next
-
-- Search and filter functionality
-- WebSocket-based live price updates
-- Multiple watchlist tabs
-- Swipe-to-delete stocks
