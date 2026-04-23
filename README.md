@@ -5,8 +5,7 @@ built using the BLoC architecture pattern.
 
 ## Screenshots
 
-![Watchlist](screenshots/watchlist.png)
-![Sort Screen](screenshots/sort.png)
+<img src="screenshots/watchlist.png" alt="Watchlist" width="270"/> &nbsp; <img src="screenshots/sort.png" alt="Sort Screen" width="270"/>
 
 ---
 
