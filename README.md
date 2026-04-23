@@ -217,11 +217,3 @@ Requires Flutter SDK 3.10+ and Dart 3.0+.
 | `equatable` | Value equality for events, states, models |
 | `uuid` | Unique IDs for stock items |
 | `google_fonts` | Sora + IBM Plex Sans typography |
-
-## What I'd Add Next
-
-- Search and filter by symbol/company name
-- WebSocket-based live price streaming
-- Multiple watchlist tabs
-- Persistent storage for custom order
-- Swipe-to-delete with undo snackbar
